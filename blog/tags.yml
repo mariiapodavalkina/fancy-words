@@ -1,0 +1,32 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+tech_writing:
+  label: tech_writing
+  permalink: /tech_writing
+  description: Everything relatred to technical writing
+mindmap:
+  label: mindmap
+  permalink: /mindmap
+  description: Mindmap is a tool helping in organizing mess
+writing:
+  label: writing
+  permalink: /writing
+  description: Writing tag description
+blog:
+  label: blog
+  permalink: /blog
+  description: Everything I write in my blog
+documentation:
+  label: documentation
+  permalink: /documentation
+  description: Documentation tag
