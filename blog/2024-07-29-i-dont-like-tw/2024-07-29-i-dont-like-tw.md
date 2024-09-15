@@ -1,7 +1,7 @@
 ---
 slug: i-don't-like-tech-writing
 title: What I Don't Like About Tech Writing
-authors: Author
+authors: mariia
 ---
 
 # Why?

@@ -2,7 +2,7 @@
 slug: mindmaps
 position: 1
 title: Crafting Effective Mindmaps for Mastering the Unknown
-authors: Author
+authors: mariia
 tags: [mindmap, docusaurus, documentation, tech_writing]
 ---
 

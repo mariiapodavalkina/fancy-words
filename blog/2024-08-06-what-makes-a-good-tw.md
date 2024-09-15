@@ -1,7 +1,7 @@
 ---
 slug: good-tw
 title: What Makes a Good Technical Writer
-authors: Author
+authors: mariia
 tags: [writing, blog, tech_writing]
 ---
 
