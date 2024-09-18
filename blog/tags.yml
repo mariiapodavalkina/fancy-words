@@ -30,3 +30,8 @@ documentation:
   label: documentation
   permalink: /documentation
   description: Documentation tag
+
+nonboarding:
+  label: nonboarding
+  permalink: /nonboarding
+  description: Nonboarding tag

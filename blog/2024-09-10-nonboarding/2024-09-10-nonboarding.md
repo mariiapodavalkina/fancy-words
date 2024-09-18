@@ -2,7 +2,7 @@
 slug: good-tw
 title: How I Tried Nonboarding and Survived
 authors: mariia
-tags: [writing, blog, tech_writing]
+tags: [writing, blog, tech_writing, nonboarding]
 ---
 
 I was assigned to a new project and felt an immediate rush of excitement and pressure. It was my chance to create something truly impactful—documentation that would not only be useful but interesting.
@@ -11,7 +11,7 @@ I was waiting for the day 1, hoping to pop in and make it all nice and organized
 
 But then, Day 1 hit me. And it hit hard…
 
-![Nonboarding](nonboarding.png)!
+[Nonboarding](nonboarding.png)
 <!--truncate-->
 
 ## Let me start from the very...end
@@ -21,10 +21,10 @@ I did it. But at what cost?
 
 ## Nonboarding? Never heard
 
-Months after finishing this overwhelming project, I stumbled upon the term "nonboarding" while listening to the  "Write the Docs" ![techtalk] (https://www.youtube.com/watch?v=m5OxGst2sks&list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&index=5)! by Matt Dodson.
+Months after finishing this overwhelming project, I stumbled upon the term "nonboarding" while listening to the  "Write the Docs" [techtalk] (https://www.youtube.com/watch?v=m5OxGst2sks&list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&index=5 "talk") by Matt Dodson.
 That's was a "bingo" moment for me, when I realized, I was actually doing this the whole time, just couldn't find a good word for it.
 
-::: note
+:::note
 Basically, **nonboarding** in this case means learning about the product as would a reguular user do - by only reading what's available and trying the product right away. No fancy kickoff meetings, no guided tours, and definitely no onboarding documents tailored to new tech writers.
 :::
 
