@@ -38,6 +38,20 @@ The main idea here is to keep all the major details in the mindmap. This makes i
 After creating the mindmap, I usually analyze the results and then break this information into hierarchical chunks. It’s not always obvious how to best organize the information, but often the mindmap itself can help you with that by visually representing the topics and their connections.
 At the very least, it helps structure the chaos in your head after a knowledge-sharing meeting. 😅
 
+:::note
+Your mindmap doesn't have to be perfect. It’s totally fine if there’s a bit of chaos or if not every idea perfectly connects to the main topic. Don’t stress about making it flawless. Remember, it’s just a tool to help you think, not the final product. So, let it be a little messy—it's doing its job.
+:::
+
+## Traps with mindmaps
+When creating a mindmap to organize your thoughts, there are a few traps you can easily fall into.
+| Trap | Solution |
+| ------------ | --------------- |
+|  ❌  **Too Many Topics, No Focus** Trying to cover too much leads to scattered, disconnected branches, leaving you feeling confused rather than clear. | ✅   **One Clear Central Idea** Make sure everything in your mind map connects back to a single central theme. This keeps your thoughts focused and manageable, so you don't get overwhelmed.|
+❌ **Shallow Thinking** If your mind map only scratches the surface, it becomes more of a list than a tool for real insights. You miss out on deeper ideas.| ✅ **Explore your ideas!** Use sub-branches to expand on your thoughts, gather specific details, and uncover new opportunities.|
+❌ **Filled with Irrelevant Stuff** When your map is full of unrelated ideas, it gets messy and hard to follow. This just distracts you from your main purpose.| ✅ **Keep It Simple and Clean** Focus on what's relevant. Balance creativity with readability, so you can quickly find the ideas you're looking for without wading through clutter.|
+❌ **Random Colors and Shapes Everywhere** Using lots of colors and shapes is fun, but if they don't have meaning, your mind map becomes a confusing rainbow.| ✅  **Give Colors and Shapes Purpose** Use consistent colors and shapes to represent specific ideas or categories. Create a simple key to remind yourself what each one means, so it’ll make sense when you come back to it later.|
+
+
 ## What are the tools? 
 Oh, there are plenty!
 
