@@ -26,7 +26,7 @@ That's was a "bingo" moment for me, when I realized, I was actually doing this t
 
 :::note
 Basically, **nonboarding** in this case means learning about the product as would a reguular user do - by only reading what's available and trying the product right away. No fancy kickoff meetings, no guided tours, and definitely no onboarding documents tailored to new tech writers.
-
+:::
 
 Back to my Day 1: I still remember my shock when I got this message that "sorry, we still don't have onboarding materials documented, but if you have questions, feel free to ask in the chat". 😱
 Uff, what a nice start of the day on a new project.
