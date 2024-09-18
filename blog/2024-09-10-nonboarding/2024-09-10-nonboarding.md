@@ -21,7 +21,7 @@ I did it. But at what cost?
 
 ## Nonboarding? Never heard
 
-Months after finishing this overwhelming project, I stumbled upon the term "nonboarding" while listening to the  "Write the Docs" [techtalk] (https://www.youtube.com/watch?v=m5OxGst2sks&list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&index=5 "talk") by Matt Dodson.
+Months after finishing this overwhelming project, I stumbled upon the term "nonboarding" while listening to the  "Write the Docs" [techtalk](https://www.youtube.com/watch?v=m5OxGst2sks&list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&index=5 "talk") by Matt Dodson.
 That's was a "bingo" moment for me, when I realized, I was actually doing this the whole time, just couldn't find a good word for it.
 
 :::note
