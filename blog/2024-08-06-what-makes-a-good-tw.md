@@ -5,7 +5,7 @@ authors: mariia
 tags: [writing, blog, tech_writing]
 ---
 
-[Generated with DALL-E!](../static/img/tech-writer-pic.webp)
+![Generated with DALL-E!](../static/img/tech-writer-pic.webp)
 I occasionally dip my toes into the interview pool. For me, it’s like a temperature check for the industry - assessing what people are searching for, spotting the shifting tides of the market, and getting a peek into how the collective mindset around technical writing is evolving.
 
 So, Recently, during an interview, I was hit with this question: “How can technical writers create accurate documentation if they didn’t develop the product themselves?”

@@ -11,7 +11,7 @@ I was waiting for the day 1, hoping to pop in and make it all nice and organized
 
 But then, Day 1 hit me. And it hit hard…
 
-[Nonboarding](nonboarding.png)
+![Nonboarding](nonboarding.png)
 <!--truncate-->
 
 ## Let me start from the very...end
