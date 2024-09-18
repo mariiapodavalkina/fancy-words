@@ -71,7 +71,7 @@ This approach worked because I wasn’t asking vague questions like “How does 
 Also, something that sometimes helps in interviews is assuming something, as people will often correct you. People like correcting others. I used this strategy a few times during the project.
 
 
-## What is it for you? 
+## What's in it for you? 
 
 If you read up to the end of this story, that's great! Now that we’ve reached the end, let's reflect on the key lessons I learned during this chaotic, yet rewarding experience.
 The nonboarding
