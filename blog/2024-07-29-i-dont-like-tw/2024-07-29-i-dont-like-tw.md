@@ -62,7 +62,7 @@ Well, I don't even know what's more to add.
 
 But wait..I actually have something.
 
-# In Addition
+# In addition
 
 Discussions with my fellow tech writers brought up even more light on the issues. Sadly, it's not the first time I heard those stories. For example:
 

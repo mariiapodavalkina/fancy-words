@@ -35,7 +35,9 @@ When I listen to stakeholders or attend a knowledge-sharing meeting, I always co
 The main idea here is to keep all the major details in the mindmap. This makes it easier for me to move on to the breakdown phase.
 
 ## OK, and what’s next?
-After creating the mindmap, I usually analyze the results and then break this information into hierarchical chunks. It’s not always obvious how to best organize the information, but often the mindmap itself can help you with that by visually representing the topics and their connections.
+After creating the mindmap, I usually analyze the results and then break this information into hierarchical chunks. I usually split my mindmaps into the "what", "how", "why" and "when" and "where" topics to have more distict visualization. 
+
+It’s not always obvious how to best organize the information, but often the mindmap itself can help you with that by visually representing the topics and their connections.
 At the very least, it helps structure the chaos in your head after a knowledge-sharing meeting. 😅
 
 :::note
