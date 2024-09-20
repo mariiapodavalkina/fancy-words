@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'A sneak peek at my writing style',
+    link: '@site/blog'
     Svg: require('@site/static/img/writing-style.svg').default,
     description: (
       <>
@@ -53,7 +54,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+      <div className="row justify--center"> 
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
