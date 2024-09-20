@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'A sneak peek at my writing style',
-    link: '@site/blog'
     Svg: require('@site/static/img/writing-style.svg').default,
     description: (
       <>
