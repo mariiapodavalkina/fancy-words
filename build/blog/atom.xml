@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Fancy Words Blog</title>
+    <updated>2024-08-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Fancy Words Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/logo.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[What Makes a Good Technical Writer]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/good-tw</id>
+        <link href="https://your-docusaurus-site.example.com/blog/good-tw"/>
+        <updated>2024-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generated with DALL-E!]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Generated with DALL-E!" src="https://your-docusaurus-site.example.com/assets/images/tech-writer-pic-20ddf37c8f6c596b586774f2069238a7.webp" width="1024" height="1024" class="img_ev3q">
+I occasionally dip my toes into the interview pool. For me, it’s like a temperature check for the industry - assessing what people are searching for, spotting the shifting tides of the market, and getting a peek into how the collective mindset around technical writing is evolving.</p>
+<p>So, Recently, during an interview, I was hit with this question: “How can technical writers create accurate documentation if they didn’t develop the product themselves?”</p>
+<p>This question struck a chord with me because it touches on a core aspect of our craft. But if you peel back the layers, it really asks, “What makes a great technical writer?”</p>
+<p>With that in mind, I'd like to share some of my own insights on the topic.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tldr">TL;DR<a class="hash-link" aria-label="Direct link to TL;DR" title="Direct link to TL;DR" href="https://your-docusaurus-site.example.com/blog/good-tw#tldr">​</a></h2>
+<p>It's <strong>not</strong> all about knowing how to code.
+While diving into programming can broaden your expertise, it can also turn into a double-edged sword. The pressure to master every line of code can lead to burnout faster than you can say “syntax error.”</p>
+<p>What <strong>does</strong> make a difference is:</p>
+<ul>
+<li>asking the right questions</li>
+<li>knowing the very basics</li>
+<li>being ready to rounds of review and corrections</li>
+<li>willing to orginize some mess</li>
+<li>knowing how to write and enjoying the process</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="knowing-the-basics">Knowing the basics<a class="hash-link" aria-label="Direct link to Knowing the basics" title="Direct link to Knowing the basics" href="https://your-docusaurus-site.example.com/blog/good-tw#knowing-the-basics">​</a></h2>
+<p>You don’t need to be a Java or C++ wizard to be a good tech writer. Sure, it’s a nice bonus, but it’s not the must have.</p>
+<p>However, what is a must have (imho) is knowing the basic concepts of programming. Think of it like knowing the rules of the road even if you’re not the one driving.</p>
+<ul>
+<li>What types of architectural approaches are there?</li>
+<li>Which popular languages are used for which purposes?</li>
+<li>What are databases? Which tools for managing them are popular nowadays?</li>
+<li>What is UML? How do I create a diagram on my own? What tools can I use?</li>
+<li>What is an API? How is it used?</li>
+</ul>
+<p>This is the most basic information that can help you on every project.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="research-and-read">Research and read<a class="hash-link" aria-label="Direct link to Research and read" title="Direct link to Research and read" href="https://your-docusaurus-site.example.com/blog/good-tw#research-and-read">​</a></h3>
+<p>To build this foundation, you could take the scenic route with books like <em>"Software Architecture in Practice"</em> by Len Bass, Paul Clements, and Rick Kazman, or "Database Systems: The Complete Book" by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. Or even take a course "Documenting APIs: A guide for technical writers and engineers
+" by Tom Johnson.
+But these days, I more up to using ChatGPT, taking Udemy courses, or reading articels on Medium. It’s all about finding what fits your style.</p>
+<p>Leverage every resource at your disposal to know the basics. If you’re already in the trenches as a tech writer, don’t hesitate to ask your SMEs (Subject Matter Experts) for reading recommendations.  I once asked and was floored by the sheer volume of incredible suggestions that came my way.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ability-to-write-and-enjoying-the-process">Ability to write and enjoying the process<a class="hash-link" aria-label="Direct link to Ability to write and enjoying the process" title="Direct link to Ability to write and enjoying the process" href="https://your-docusaurus-site.example.com/blog/good-tw#ability-to-write-and-enjoying-the-process">​</a></h2>
+<p>I believe, this is the top skill of a good tech writer. You could be an exceptional programmer, but if you can’t clearly articulate your knowledge in writing, those skills might become more of a hindrance than a help. It’s essential to have a passion for writing, along with the ability to distill complex information into clear, concise text. Without this, the burden of knowing too much without being able to effectively communicate it can drive you up the wall.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="askig-the-right-questions">Askig the right questions<a class="hash-link" aria-label="Direct link to Askig the right questions" title="Direct link to Askig the right questions" href="https://your-docusaurus-site.example.com/blog/good-tw#askig-the-right-questions">​</a></h2>
+<p>This is a skill that grows with you. I think, upon every other item in this list, this is one of the second most crutial for the tech writer after ability to write and passion for that.</p>
+<p><strong>Your questions define the qulity of your documentation.</strong></p>
+<p>There are days when I feel like a detective piecing together a complex puzzle. It starts with digging into everything I can find on the subject, then evolves into an interactive investigation during conversations with SMEs or stakeholders. I gather my questions, toss them out during discussions, and jot down every answer and idea that comes my way.  I always record or write down the answers or the related ideas.</p>
+<p>Sometimes, after a call, I have that feeling that some parts of my puzzle are missing and I can't identify them explicitly at first glance. That’s when I turn to mind mapping <a href="https://your-docusaurus-site.example.com/blog/mindmaps">a mindmap</a> to capture all details I have to create some sort of a brain dump. Oftentimes, during this process, I can identify some of the questions that I missed, which I can then address in the next round.</p>
+<p>Asking the right questions isn’t always easy. It's not always obvious to me what the right question is, or which information is "additional" or "extra. Sometimes I just try until I get this feeling of a "hey, this is my missing puzzle!". And when you reel in that one piece that completes the puzzle, it’s incredibly satisfying.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="proofread-and-review">Proofread and review<a class="hash-link" aria-label="Direct link to Proofread and review" title="Direct link to Proofread and review" href="https://your-docusaurus-site.example.com/blog/good-tw#proofread-and-review">​</a></h2>
+<p>It might sound like a no-brainer, but sending your work out for review is essential. Getting fresh eyes on your documentation — whether from SMEs or fellow tech writers — can be interesting and useful.  You can sometimes get really surprised of how many findings, corrections, and enchansments you can get. XD</p>
+<p>I always value feedback, even when it stings a bit. My mantra here is "it sharpens my skills and helps me grow as a professional".</p>
+<p><img decoding="async" loading="lazy" alt="Confluence comments I sometimes get" src="https://your-docusaurus-site.example.com/assets/images/comment-confluence-94616d6daeec0dd669635bff8fdf1f87.png" width="283" height="140" class="img_ev3q"></p>
+<p>And here we are, ready to <strong>level up</strong>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="becoming-an-advocate-for-documentation">Becoming an advocate for documentation<a class="hash-link" aria-label="Direct link to Becoming an advocate for documentation" title="Direct link to Becoming an advocate for documentation" href="https://your-docusaurus-site.example.com/blog/good-tw#becoming-an-advocate-for-documentation">​</a></h2>
+<p>This is where you elevate your role from a good technical writer to an exceptional one. I know, it's a tricky one. I’m fortunate to be in such an environment now, where ideas for improving processes and tools are always welcomed.
+But there were different times...</p>
+<p>Unfortunately, that’s not always the case. Sometimes, it feels like an uphill battle to change existing processes or shift the way coworkers perceive documentation.</p>
+<p>Be patient, write your ideas on paper, confluence pages or whatever text editor you have in mind.
+Just don't abandon them. Engage with the SMEs involved in documentation. Together, you might just spark changes that elevate the entire process, and one day, you’ll see the quality of your documentation soar.</p>]]></content>
+        <author>
+            <name>Mariia Podavalkina</name>
+        </author>
+        <category label="writing" term="writing"/>
+        <category label="blog" term="blog"/>
+        <category label="tech_writing" term="tech_writing"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Don't Like About Tech Writing]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/i-don't-like-tech-writing</id>
+        <link href="https://your-docusaurus-site.example.com/blog/i-don't-like-tech-writing"/>
+        <updated>2024-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, certain aspects of tech writing really frustrate me. We all have our good and bad days at work, and there are things we love and hate about our jobs.]]></summary>
+        <content type="html"><![CDATA[<p>Sometimes, certain aspects of tech writing really frustrate me. We all have our good and bad days at work, and there are things we love and hate about our jobs.</p>
+<p>As they say "I'm only human, after all"...  So, I want to freely express my thoughts here.</p>
+<p>So today, I'm about to discuss with you some of the things that drive me nuts about my job, based on my experiences and those of fellow tech writers.</p>
+<p><img decoding="async" loading="lazy" alt="Boom!" src="https://your-docusaurus-site.example.com/assets/images/mindblow-07dd94bdbe6b3707afdacb9543e414e2.png" width="860" height="773" class="img_ev3q"></p>
+<h1>TL;DR</h1>
+<p>It's all about collaboration. People can boost your development as a professional and bring joy to your everyday work, but can also be the main source of stress.  So let's treat others with respect.</p>
+<h1>Firstly...</h1>
+<p>...it's when people don't want to understand what a tech writer does. They assign so many things to you as so the "writer" part of you job title includes being their personal scribe, translator, email writing assistant, reference searcher, grammar checker, english teacher, and so on and so forth.</p>
+<p>I understand, that the role of a tech writer can include multiple totally different responsibilities, and that's perfectly fine. I like being able to switch between different intesting and new tasks.
+And I get that, if someone from your team needs help formulating a text, and you're willing to help, it's a win-win situation.
+But if you're constantly being assigned the tasks you're not supposed to do (even if you shared your concerns), that's where it becomes a problem.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="but-youre-a-writer-right">But you're a writer, right?<a class="hash-link" aria-label="Direct link to But you're a writer, right?" title="Direct link to But you're a writer, right?" href="https://your-docusaurus-site.example.com/blog/i-don't-like-tech-writing#but-youre-a-writer-right">​</a></h2>
+<p>Yes, I'm indeed a writer. A person who writes tech documentation (whatever that is in your mind).
+So mainly, what I do first whenever I land on the a new project, list out all the main things that I can help with if I feel the need for this.</p>
+<p>Please, pay attention and listen closely.  This helps avoid unnecessary discussions later. (Yes, I do have a list somewhere in a text file.)</p>
+<h1>Secondly...</h1>
+<p>...it's being totally ignored when you need input.</p>
+<p>About 90% of my work involves interviewing people to get the data to document. I don't write to bother you; I write because it's my job.</p>
+<p>This is this point that I desparately try to overcome, but still can't stand.
+Don't get me wrong, I don't bombard people with countless messages, but constantly being the lowest priority on colleagues' to-do lists is discouraging.</p>
+<p>I can read code,  but I might not understand the underlying idea sometimes. Also, if I'm about to document a new feature not yet implemented, dear SME, you're my only source of informaion, so please consider this when developing something that (ideally) needs to be written up.</p>
+<p>I'm not a fan of meetings myself. I believe that most meetings lasting over 2 hours could be just replaced with an email and a 30-minute discussion max.</p>
+<p>But part of my job is getting information from developers and explaining it through documentation.
+So please, if you are busy, at least say when we can come back to the conversation. Please don't leave me waiting endlessly for your response. Let's respect each other's time after all.</p>
+<h1>Thirdly...</h1>
+<p>...it's not being included in discussions about new features or enchantsments. How am I supposed to know the details from meetings I wasn't invited to because they were "technical discussions"?</p>
+<p>I'm not a mind reader. And based on the previous point, the details I need have likely already slipped away because explaining them to me is a low priority.</p>
+<p>Well, I don't even know what's more to add.</p>
+<p>But wait..I actually have something.</p>
+<h1>In Addition</h1>
+<p>Discussions with my fellow tech writers brought up even more light on the issues. Sadly, it's not the first time I heard those stories. For example:</p>
+<p>Being treated like a child who can't think properly. Yes, I may not always grasp the details on the first or second try, but acting superior about it is inappropriate.</p>
+<p>Or even worse:  "We've already talked about this; what's so hard to understand?".
+This is one of the most inappropriate phrases I ever heard. I'm glad I no longer work in a place where this was acceptable.</p>
+<p>To my fellow tech writers who've experienced this, don't allow yourself to be treated like a dummy. Speak up and never stay silent. If things don't improve, it might be time to find a project where you're treated with the respect you deserve.</p>]]></content>
+        <author>
+            <name>Mariia Podavalkina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting Effective Mindmaps for Mastering the Unknown]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/mindmaps</id>
+        <link href="https://your-docusaurus-site.example.com/blog/mindmaps"/>
+        <updated>2024-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical writers often write about topics they don’t deeply understand. This is both a plus and a challenging curse of our job.]]></summary>
+        <content type="html"><![CDATA[<p>Technical writers often write about topics they don’t deeply understand. This is both a plus and a challenging curse of our job.</p>
+<p>A plus, because it allows us to get acquainted with a multitude of new concepts, try out innovative products, and explore the tech world extensively. <strong>Being there when new things in IT are being created</strong> — that's what I personally love the most about tech writing.</p>
+<p>And why the curse? It's because this approach involves a constant feeling of uncertainty and the nagging realization that "I don't understand anything at all, omg!".</p>
+<p>You always need to ask a lot of questions, place yourself in the learner's mindset, and continuously feel the pressure to keep up and figure everything out. And deadlines often demand that you do this really quickly.</p>
+<p>So, here I share my tips and insights on how I gather information and organize it, so I don’t forget the details and can write documentation faster (not worrying so much about the amount of the Unknown).</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-curse-of-a-blank-page">The curse of a blank page<a class="hash-link" aria-label="Direct link to The curse of a blank page" title="Direct link to The curse of a blank page" href="https://your-docusaurus-site.example.com/blog/mindmaps#the-curse-of-a-blank-page">​</a></h2>
+<p>Starting from scratch can be tough. We've all been there—staring at a blank page, feeling frustrated or overwhelmed as we try to start writing. To get myself moving, I use braindumps to jot down all the facts I have, organizing them to prepare for the next steps. This makes the process much less intimidating for me.</p>
+<p>What do I use?</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mindmaps-to-the-rescue">Mindmaps to the rescue!<a class="hash-link" aria-label="Direct link to Mindmaps to the rescue!" title="Direct link to Mindmaps to the rescue!" href="https://your-docusaurus-site.example.com/blog/mindmaps#mindmaps-to-the-rescue">​</a></h2>
+<p>The main thing that helps me most these days is a <strong>mindmap</strong>.
+A mindmap is a fantastic tool that visually organizes information.</p>
+<p><img decoding="async" loading="lazy" alt="Mindmap Example" src="https://your-docusaurus-site.example.com/assets/images/mindmap-cdf3fc9b78ca20f5178c135fe05d9783.jpg" width="1361" height="472" class="img_ev3q"></p>
+<p>When I listen to stakeholders or attend a knowledge-sharing meeting, I always come prepared. I bring a mindmap template with me, and each time a new idea pops up, I jot it down in my mindmap. If I don’t have enough time during the meeting, I write all my thoughts and ideas immediately afterward while they are still fresh in my memory.
+The main idea here is to keep all the major details in the mindmap. This makes it easier for me to move on to the breakdown phase.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ok-and-whats-next">OK, and what’s next?<a class="hash-link" aria-label="Direct link to OK, and what’s next?" title="Direct link to OK, and what’s next?" href="https://your-docusaurus-site.example.com/blog/mindmaps#ok-and-whats-next">​</a></h2>
+<p>After creating the mindmap, I usually analyze the results and then break this information into hierarchical chunks. It’s not always obvious how to best organize the information, but often the mindmap itself can help you with that by visually representing the topics and their connections.
+At the very least, it helps structure the chaos in your head after a knowledge-sharing meeting. 😅</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-are-the-tools">What are the tools?<a class="hash-link" aria-label="Direct link to What are the tools?" title="Direct link to What are the tools?" href="https://your-docusaurus-site.example.com/blog/mindmaps#what-are-the-tools">​</a></h2>
+<p>Oh, there are plenty!</p>
+<p>The one I use most is <strong>Xmind</strong>. Although, in most cases, there were no macros available for displaying the files in Confluence, it’s a super easy-to-use and convenient tool. I love that you can pick from a variety of preset styles whenever you like—even when you’re almost done with all the blocks. It’s like giving your work a fun makeover at the last minute.🔆</p>
+<p>Also, <strong>drawio</strong> is a good choice. There are different macros available for Confluence.</p>
+<p><strong>Miro</strong> is another tool I've used a couple of times at work. It has a macro and allows easy collaboration with the team (they might have something to add to your mindmaps), and you can track all changes and history.</p>
+<p>I’ve also tried <strong>Figma Jamboard</strong> a few times. It’s a nice tool, although it has some restrictions on user collaboration. But if you're using the mindmaps solely for yourself, that’s not a problem at all.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="anyways">Anyways...<a class="hash-link" aria-label="Direct link to Anyways..." title="Direct link to Anyways..." href="https://your-docusaurus-site.example.com/blog/mindmaps#anyways">​</a></h2>
+<p>You can try this out next time you have a meeting where you need to grasp a new topic for documenting. I'm sure it will be fun—at the very least, you'll have an opportunity to play around with colors and shapes. 🙃</p>]]></content>
+        <author>
+            <name>Mariia Podavalkina</name>
+        </author>
+        <category label="mindmap" term="mindmap"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="documentation" term="documentation"/>
+        <category label="tech_writing" term="tech_writing"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm Mariia, a tech writer from Ukraine. I'm lucky to have a diverse background in end-user documentation and internal documentation for developers.]]></summary>
+        <content type="html"><![CDATA[<p><strong>I'm Mariia, a tech writer from Ukraine.</strong> I'm lucky to have a diverse background in end-user documentation and internal documentation for developers.
+Over the years, I've had the pleasure of working on various projects: healthcare to retail, IoT, and more.
+I like documentation. My mission is to create a bridge of understanding between people through my texts.</p>
+<p>Beyond my passion for writing, I'm also a passionate musician. Music fuels my creativity and inspires my work.
+I also have the privilege learning different languages, such as English, German, Slovak, Spanish, and French, which allows me to connect with a wider audience and understand different perspectives.🌉</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="im-glad-to-connect">I'm glad to connect!<a class="hash-link" aria-label="Direct link to I'm glad to connect!" title="Direct link to I'm glad to connect!" href="https://your-docusaurus-site.example.com/blog/welcome#im-glad-to-connect">​</a></h2>
+<p>If you want to stay in touch or collaborate on anything tech writing-related, feel free to connect with me on <img decoding="async" loading="lazy" src="https://www.linkedin.com/in/mariia-podavalkina-2b0540184/" alt="LinkedIn" class="img_ev3q">. Let's keep the conversation going and share ideas 🌍</p>
+<p><img decoding="async" loading="lazy" alt="Hello" src="https://your-docusaurus-site.example.com/assets/images/hello-dd4b441ec88a13447e3984c91530d9b7.jpg" width="640" height="360" class="img_ev3q"></p>
+<h1>What is this blog about?</h1>
+<p>Here, I want to share everything about tech writing: the things I like, the tools I try, the insights I get, and a lot more. Why? Just because I love writing!</p>
+<p>Whether you're an experienced writer or just starting, I hope you'll find something valuable and inspiring here.</p>
+<p>I hope you'll like it! 😇</p>]]></content>
+        <author>
+            <name>Mariia Podavalkina</name>
+        </author>
+        <category label="Hello" term="Hello"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>
