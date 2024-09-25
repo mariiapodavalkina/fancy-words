@@ -49,7 +49,7 @@ function Feature({Svg, title, description}) {
   );
 }
 
-export default function HomepageFeatures() {
+export function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
@@ -62,3 +62,16 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+// Configuration export for the Docusaurus site, including Vercel Analytics
+export default {
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
+};

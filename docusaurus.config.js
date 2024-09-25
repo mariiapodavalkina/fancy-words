@@ -80,8 +80,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/mariiapodavalkina',
-            label: 'GitHub',
+            href: 'https://www.linkedin.com/in/mariia-podavalkina-2b0540184/',
+            label: 'LinkedIn',
             position: 'right',
           },
         ],
@@ -107,8 +107,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/mariiapodavalkina',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/mariia-podavalkina-2b0540184/',
               },
             ],
           },

@@ -72,7 +72,7 @@ It might sound like a no-brainer, but sending your work out for review is essent
 
 I always value feedback, even when it stings a bit. My mantra here is "it sharpens my skills and helps me grow as a professional".
 
-[Confluence comments I sometimes get](../static/img/comment-confluence.png "comments I get sometimes")
+![Confluence comments I sometimes get](../static/img/comment-confluence.png "Comments I get sometimes")
 
 And here we are, ready to **level up**.
 
