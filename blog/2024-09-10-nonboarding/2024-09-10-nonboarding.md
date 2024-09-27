@@ -56,7 +56,7 @@ Eventually, I started making sense of the chaos. As I untangled the mess, I bega
 
 My first drafts were pure braindumps. Only I could decipher them, I guess. But I kept refining them, organizing my thoughts, and iterating until they were finally clear to be discussed with developers.
 
-## Try it yourself of stay confused
+## Try it yourself or stay confused
 
 Another key part of my nonboarding journey is that I got my hands on the product and started testing it myself.  So I started randomly testing features and seeing how everything worked (or didn’t). My hope was: "If I couldn’t get answers from documentation or the team, I’d find them by trying things myself."
 
