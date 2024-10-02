@@ -33,7 +33,7 @@ const FeatureList = [
       </>
     ),
   }, */
-];
+]
 
 function Feature({Svg, title, description}) {
   return (
@@ -46,10 +46,10 @@ function Feature({Svg, title, description}) {
         <p>{description}</p>
       </div>
     </div>
-  );
-}
+  ),
+};
 
-export function HomepageFeatures() {
+export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
@@ -60,18 +60,5 @@ export function HomepageFeatures() {
         </div>
       </div>
     </section>
-  );
-}
-
-// Configuration export for the Docusaurus site, including Vercel Analytics
-export default {
-  plugins: [
-    [
-      'vercel-analytics',
-      {
-        debug: true,
-        mode: 'auto',
-      },
-    ],
-  ],
+  ),
 };
