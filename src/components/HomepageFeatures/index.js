@@ -46,8 +46,8 @@ function Feature({Svg, title, description}) {
         <p>{description}</p>
       </div>
     </div>
-  ),
-};
+  );
+}
 
 export default function HomepageFeatures() {
   return (
@@ -60,5 +60,5 @@ export default function HomepageFeatures() {
         </div>
       </div>
     </section>
-  ),
+  );
 };
