@@ -1,6 +1,6 @@
 ---
 slug: docs-like-music
-title: Writing Docs Is Like Writing Music
+title: How Writing Docs Is Like Writing Music
 authors: mariia
 tags: [writing, blog, tech_writing]
 ---
@@ -19,7 +19,7 @@ Got skeptical? Let me show you how these two seemingly different worlds intersec
 
 Think about a song—there are verses, choruses, and bridges, each with its purpose. In the same way, technical documentation follows a structured format with sections, headers, and a logical flow. You map out an outline to guide the reader, much like a composer arranges different parts of a song to take the listener on an emotional journey.
 
-<img src="musical docs0.webp" alt="Musical Docs" width="200"/>
+![Musical docs](./musical docs0.webp)
 
 For example, in a song, the verse could be seen as the "facts" or the story you're telling, while the chorus conveys how you feel about those facts. Similarly, in tech docs, the introduction might lay out the facts, and the subsequent sections elaborate on their importance and application.
 
@@ -33,7 +33,7 @@ Have you ever read something so well-written that it felt effortless to follow, 
 
 For instance, when you read a guide that’s overly technical and hard to understand, it’s like listening to a song with too many time changes—confusing and hard to follow.
 
-<img src="musical docs3.webp" alt=" Flow" width="200"/>
+![Music flow](./musical docs3.webp)
 
 So let’s aim for a smooth flow like your favorite song, not something overly complicated 👏
 
@@ -55,7 +55,7 @@ The same can happen with technical writing. You might be focused on what you thi
 
 At first glance, tech writing seems pretty rigid. But within those guidelines, there’s still room for creativity. How you present the information—whether through diagrams, concise summaries, or different formatting options—can make a big difference in how easily it’s understood.
 
-<img src="musical docs4.webp" alt="Creativity" width="200"/>
+![Musical creativity](./musical docs4.webp)
 
 Similarly, musicians work within constraints like scales, keys, and time signatures, but the magic comes from how they bend those rules to create something unique. Writing a technical guide or composing music both require creative thinking within a set framework.
 
@@ -67,7 +67,7 @@ And last but not least, it's collaboration that can create something truly worth
 
 Picture a band rehearsing together, bouncing ideas off one another. Tech writing can feel the same when you’re working closely with a team to produce a guide that helps everyone get on the same page.
 
-And let’s be honest—collaborating can be just as fun in both cases! There’s nothing like that “aha” moment when everything clicks, whether it's the perfect harmony in a song or nailing the explanation of a tricky concept in a document. 
+And let’s be honest—collaborating can be just as fun in both cases! There’s nothing like that “aha” moment when everything clicks, whether it's the perfect harmony in a song or nailing the explanation of a tricky concept in a document.
 
 # Bringing it all together
 
