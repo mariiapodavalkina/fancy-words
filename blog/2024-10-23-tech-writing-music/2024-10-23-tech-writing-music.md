@@ -5,15 +5,15 @@ authors: mariia
 tags: [writing, blog, tech_writing]
 ---
 
-As a passionate musician, I love composing music from time to time.It's not always great, but this is what really drives my creativity and inspires my working life.
+As a passionate musician, I love composing music from time to time. It's not always great, but this is what really drives my creativity and inspires my working life.
 
 So I took a moment to reflect on how creating music is, in some cases, very much like creating tech documentation.
 
 Got skeptical? Let me show you how these two seemingly different worlds intersect 🤗
 
 ![Music theory meme somewhere from Redit](./music-theory.webp)
-
 <!--truncate-->
+
 
 # Structure and composition
 
