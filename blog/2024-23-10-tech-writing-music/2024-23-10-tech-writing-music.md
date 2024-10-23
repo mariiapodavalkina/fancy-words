@@ -11,13 +11,15 @@ So I took a moment to reflect on how creating music is, in some cases, very much
 
 Got skeptical? Let me show you how these two seemingly different worlds intersect 🤗
 
-<img src="musical docs0.webp" alt="Musical Docs" width="200"/>
+![Music theory meme somewhere from Redit](./music-theory.webp)
 
 <!--truncate-->
 
 # Structure and composition
 
 Think about a song—there are verses, choruses, and bridges, each with its purpose. In the same way, technical documentation follows a structured format with sections, headers, and a logical flow. You map out an outline to guide the reader, much like a composer arranges different parts of a song to take the listener on an emotional journey.
+
+<img src="musical docs0.webp" alt="Musical Docs" width="200"/>
 
 For example, in a song, the verse could be seen as the "facts" or the story you're telling, while the chorus conveys how you feel about those facts. Similarly, in tech docs, the introduction might lay out the facts, and the subsequent sections elaborate on their importance and application.
 
