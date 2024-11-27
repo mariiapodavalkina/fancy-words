@@ -9,7 +9,7 @@ This topic isn’t the easiest to write about—because we’re not living in an
 But don't worry, this isn’t a philosophical piece. I want to be clear that this article won’t solve the problem in every scenario. The work of a tech writer is too diverse for a one-size-fits-all solution. But trying is what really makes a difference. Advocacy for documentation starts with small steps, persistence, and a willingness to champion its value—even when it feels like an uphill battle.
 If you’re reading this and considering how to embrace documentation efforts in your role, you’re already on the right track. Thank you for being interested.🤗
 
-![Icon by "Flaticon](./notebook.png.png)
+![Icon by "Flaticon](./notebook.png)
 
 <!--truncate-->
 
