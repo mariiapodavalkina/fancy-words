@@ -9,6 +9,8 @@ This topic isn’t the easiest to write about—because we’re not living in an
 But don't worry, this isn’t a philosophical piece. I want to be clear that this article won’t solve the problem in every scenario. The work of a tech writer is too diverse for a one-size-fits-all solution. But trying is what really makes a difference. Advocacy for documentation starts with small steps, persistence, and a willingness to champion its value—even when it feels like an uphill battle.
 If you’re reading this and considering how to embrace documentation efforts in your role, you’re already on the right track. Thank you for being interested.🤗
 
+![Icon by "Flaticon](./notebook.png.png)
+
 <!--truncate-->
 
 # What does advocating for documentation really mean?
@@ -30,13 +32,13 @@ Let me share the most common objections to documentation:
     - **“ChatGPT (or other tools) can explain it.”**  Assuming the user is up to search for answers writing prompts and find the information that can't be even there.
     - **"A quick call will be enough if any questions arise."** Because people have a perfect memory, right? 💁🏽‍♀️
 
-The wording can vary, but the sense is alwas the same.
+The wording can vary, but the sense is always the same.
 
 Now, let’s move on to the “How”.
 
 # How to advocate for documentation
 
-Now let’s tackle each objection one by one.
+Let’s tackle each objection one by one.
 
 ![Icon by "Flaticon](./magnifying-glass.png)
 
@@ -55,7 +57,8 @@ I'd say something like: "I understand we’re on a tight timeline, but if we tak
 What’s obvious to one person may be completely confusing to another. Assumptions often fail because people come from different backgrounds, perspectives, and levels of expertise.
 
 Try testing this assumption. Ask a colleague unfamiliar with the project to follow the process or use the feature without guidance. Their struggles will highlight gaps.
-Lke: "Let’s do a quick experiment. I’ll hand this feature to someone in another team and ask them to use it without instructions. If they struggle, it’s a sign we need documentation.”
+
+Like: "Let’s do a quick experiment. I’ll hand this feature to someone in another team and ask them to use it without instructions. If they struggle, it’s a sign we need documentation.”
 
 ## We’ve done this before and it’s working
 
