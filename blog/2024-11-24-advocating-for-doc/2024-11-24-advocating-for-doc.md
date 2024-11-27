@@ -12,14 +12,14 @@ If you’re reading this and considering how to embrace documentation efforts in
 ![Icon by "Flaticon](./notebook.png)
 <!--truncate-->
 
-# What does advocating for documentation really mean?
+## What does advocating for documentation really mean?
 
 At its core, advocating for documentation is about being the person who stands up and says, “Enough of this chaos—let’s make it organized.” It's about convincing stakeholders that absence of documentation is a bug, not a feature.
 Advocacy is about reframing documentation as an asset that saves time, reduces costs, and improves user satisfaction.
 
 Now, let's get to the "Why" part.
 
-# Why does documentation need advocacy?
+## Why does documentation need advocacy?
 
 You might be wondering, If no one else cares, why should I? I’ve asked myself this question, too.
 I’m the kind of person who always needs the “why” question answered to truly grasp the purpose and mission behind something. For me, the answer lies in examining the challenges companies face in delivering high-quality products that people can easily understand and genuinely enjoy using.
@@ -35,13 +35,13 @@ The wording can vary, but the sense is always the same.
 
 Now, let’s move on to the “How”.
 
-# How to advocate for documentation
+## How to advocate for documentation
 
 Let’s tackle each objection one by one.
 
 ![Icon by "Flaticon](./magnifying-glass.png)
 
-## Not enough time
+### Not enough time
 
 When teams claim there’s no time for documentation, they’re often focused on short-term goals.
 
@@ -51,7 +51,7 @@ Ask folks from support how often they receive repetitive questions or need to ex
 
 I'd say something like: "I understand we’re on a tight timeline, but if we take 30 minutes now to document this process, we’ll save hours in onboarding the next team member or handling support tickets later.”
 
-## It's obvious
+### It's obvious
 
 What’s obvious to one person may be completely confusing to another. Assumptions often fail because people come from different backgrounds, perspectives, and levels of expertise.
 
@@ -59,7 +59,7 @@ Try testing this assumption. Ask a colleague unfamiliar with the project to foll
 
 Like: "Let’s do a quick experiment. I’ll hand this feature to someone in another team and ask them to use it without instructions. If they struggle, it’s a sign we need documentation.”
 
-## We’ve done this before and it’s working
+### We’ve done this before and it’s working
 
 Past success doesn’t always mean current practices are optimal—after all, half the companies out there are still running critical processes on an Excel sheet from 2010 that no one dares to touch.
 But times are changing, technologies are advancing, and documentation needs to be evolving right alongside them.
@@ -70,7 +70,7 @@ So, try focusing on scalability. Point out how undocumented processes become bot
 Share specific instances where lack of documentation caused confusion or delays.
 Who knows? Maybe one day the stakeholders will see things differently and realize you can’t have solid growth without proper documentation—hopefully before it’s too late.
 
-## ChatGPT will explain it
+### ChatGPT will explain it
 
 This is the argument I’ve been hearing the most lately. And sure, there’s some truth to it—AI-powered tools can be incredibly effective for explaining general concepts. I use them all the time myself, and they’re great for that purpose.  
 
@@ -80,7 +80,7 @@ If the information isn’t documented, it simply doesn’t exist for the AI to r
 
 That said, it’s important to remember: AI won’t generate what’s not there. In this industry, context and nuanced scenarios are critical. General AI tools can't match the depth of understanding and specific knowledge that comes from thorough documentation. They might be able to process information and generate text, but they can't replicate the nuanced insights and edge cases that only human experts can provide.
 
-## A quick call will be enough
+### A quick call will be enough
 
 Calls may resolve immediate questions, but they’re not scalable or efficient in the long run.
 
@@ -91,7 +91,7 @@ Documentation creates a reliable, searchable resource that lasts beyond the mome
 
 ![Icon by Flaticon](./chat-group.png)
 
-# Persistance is key
+## Persistance is key
 
 Not every attempt will succeed, but each small win—whether it’s a single process documented or a stakeholder convinced—contributes to a culture that values clarity and organization.
 
