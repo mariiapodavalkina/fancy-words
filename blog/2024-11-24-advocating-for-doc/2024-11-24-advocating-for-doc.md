@@ -10,7 +10,6 @@ But don't worry, this isn’t a philosophical piece. I want to be clear that thi
 If you’re reading this and considering how to embrace documentation efforts in your role, you’re already on the right track. Thank you for being interested.🤗
 
 ![Icon by "Flaticon](./notebook.png)
-
 <!--truncate-->
 
 # What does advocating for documentation really mean?
