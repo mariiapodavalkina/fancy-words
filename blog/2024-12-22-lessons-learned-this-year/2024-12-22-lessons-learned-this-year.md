@@ -54,7 +54,7 @@ That realization was like a jolt of energy. Suddenly, I was motivated to push my
 
 In fact, that’s what eventually led me to start writing this blog.🤗 And for that, I’m incredibly grateful.
 
-## Lesson 3: Focus on what matters to *you*
+## Lesson 3: focus on what matters to *you*
 
 When you’re caught up in routine, it’s easy to lose sight of your own goals. Your dreams can fade into the background, buried under the weight of day-to-day tasks.
 
@@ -73,8 +73,6 @@ And that’s why I chose to leave my second job. It wasn’t about running away 
 To be completely honest, there’s no clear conclusion to this story that I can offer right now. I’m still in the middle of figuring things out.
 
 If someone were to ask me if I’d make the same choices, knowing everything this year would bring—the challenges, the uncertainty, the highs and lows—my answer would still be yes.  
-
-![Taken from Flaticon](./end.png)
 
 I’m deeply grateful for the incredible people I’ve met along the way and the new skills I’ve gained. Each experience, even the difficult ones, has shaped me into someone stronger and more self-aware.  
 
