@@ -23,7 +23,7 @@ Let me start by setting the stage.
 
 This year has been a rollercoaster, to put it mildly. There were highs and lows, but I’ll focus on the part that shaped this story: I changed workplaces twice.
 
-Now, switching jobs twice in one year might not sound like a big deal. For some, it’s just part of life. And, to be fair, I agree. But here’s the thing: the first time, I was forced to leave. The second time, I made the decision myself. That second change wasn’t just about leaving; it was about growth. I wanted to expand my skillset, stepping into a role that demanded more business analysis and management expertise.
+Now, switching jobs twice in one year might not sound like a big deal. For some, it’s just part of life. And, to be fair, I agree. But here’s the thing: the first time,  I had to leave due to the project being shut down. The second time, it was my decision to leave. That second change wasn’t just about leaving; it was about growth. I wanted to expand my skillset, stepping into a role that demanded more business analysis and management expertise.
 
 Here’s another key piece of context: I live in Ukraine. The job market here has taken a severe hit because of the ongoing war. Opportunities are scarce, so every career decision feels weightier than usual.
 
