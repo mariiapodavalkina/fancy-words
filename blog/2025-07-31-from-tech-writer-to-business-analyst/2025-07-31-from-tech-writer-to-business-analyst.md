@@ -1,7 +1,8 @@
 ---
 slug: from-tech-writer-to-business-analyst
 title: My New Advanture from Tech Writer to Business Analyst
-authors: Author
+authors: mariia
+tags: [writing, blog]
 ---
 ## Hello from My New Adventure!
 
